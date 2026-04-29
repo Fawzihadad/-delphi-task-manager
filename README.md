@@ -14,9 +14,6 @@ A simple console-based task manager built using Object Pascal (Delphi-style synt
 - Procedures for modular design
 - Basic control flow (loops, conditionals)
 
-## Purpose
-This project was built to strengthen my understanding of Delphi/Object Pascal fundamentals and structured programming.
-
 ## Future Improvements
 - Dynamic data structures (lists)
 - File persistence
